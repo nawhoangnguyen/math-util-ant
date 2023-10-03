@@ -18,6 +18,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("This message comes from the main method");
         System.out.println("This jar file is built based on ANT co-operating with JUnit");
+        System.out.println("More over, this message come from a US-BUILT JAR FILE");
         tryTDDFirst();
 //        testFactorialGivenWrongArgumentThrowsException();
 //  System.out.println(""+MathUtil.getFactorial(6));

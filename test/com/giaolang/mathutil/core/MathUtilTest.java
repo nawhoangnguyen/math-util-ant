@@ -50,6 +50,7 @@ public class MathUtilTest {
     //phải nói lên ý nghĩa của việc kiểm thử
     //tình huống này, ta mún test hàm getF() tham số tử tế
     //n = 0..20!!
+    @Test
     public void testFactorialGivenRightArgumentReturnWell() {
 //        Test case số #1: n = 0, hy hàm vọng trả về 1
 //        thực tế hàm trả về mấy, đoán xem!!!
@@ -75,6 +76,7 @@ public class MathUtilTest {
 //    
 //    @Test
 //Note
+    @Test
     public void tryJUnitComparison() {
 //        hàm này thử nghiệm việc so sánh expected vs. actual
 //        coi sai đúng ra mày thế nào !!!
