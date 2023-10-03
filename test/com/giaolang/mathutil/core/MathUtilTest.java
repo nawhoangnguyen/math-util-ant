@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/UnitTests/JUnit5TestClass.java to edit this template
  */
 package com.giaolang.mathutil.core;
+import com.giaolang.mathutil.core.MathUtil;
 import org.junit.Assert;
 import org.junit.Test;
 
