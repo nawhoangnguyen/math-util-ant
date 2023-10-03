@@ -85,6 +85,7 @@ public class MathUtilTest {
 //        quy tắc định trước nằm ở @ - annotation
 
         Assert.assertEquals(100, 100);
+//        Note
 
     }
 
