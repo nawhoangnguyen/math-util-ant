@@ -2,6 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/UnitTests/JUnit5TestClass.java to edit this template
  */
+
 package com.giaolang.mathutil.core;
 import com.giaolang.mathutil.core.MathUtil;
 import org.junit.Assert;
